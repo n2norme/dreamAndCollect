@@ -5,3 +5,7 @@ Description: Wordpress theme for a project
 Version:
 Tags: 
 */
+
+body{
+    background-color: red;
+}
